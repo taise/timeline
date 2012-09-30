@@ -7,7 +7,8 @@ require 'yaml/store'
 
 class TimeLine
   def initialize(yml = "timeline.yml")
-    @timeline_yml = yml
+    @timeline_yml = "tmp/#{yml}"
+    Dir.mkdir("tmp") unless Dir.exists?("tmp")
   end
 
   def set_timeline
