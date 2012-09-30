@@ -1,0 +1,1216 @@
+---
+tweets:
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393356846592000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:04:00 +0000 2012
+    favorited: false
+    user:
+      screen_name: AnnaBraymer
+      id: 227829399
+      default_profile_image: false
+      verified: false
+      profile_banner_url: https://si0.twimg.com/profile_banners/227829399/1348092131
+      profile_sidebar_border_color: '102634'
+      friends_count: 188
+      favourites_count: 195
+      follow_request_sent: 
+      url: 
+      utc_offset: -21600
+      profile_background_tile: false
+      created_at: Fri Dec 17 23:03:15 +0000 2010
+      name: Anna Braymer
+      profile_sidebar_fill_color: 7DC08D
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/203629107/x4d5074819dcf236e650f452b488b176.png
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2590725307/image_normal.jpg
+      is_translator: false
+      default_profile: false
+      location: ! 'MADISONN. '
+      profile_background_color: 25A6BB
+      notifications: 
+      description: Therefore, what God has joined together let no man separate. Mark
+        10:9
+      statuses_count: 6733
+      followers_count: 465
+      listed_count: 1
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/203629107/x4d5074819dcf236e650f452b488b176.png
+      id_str: '227829399'
+      profile_link_color: 14120F
+      contributors_enabled: false
+      time_zone: Central Time (US & Canada)
+      profile_image_url_https: https://si0.twimg.com/profile_images/2590725307/image_normal.jpg
+      profile_use_background_image: true
+      profile_text_color: C27A93
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for
+      iPhone</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393356846592000
+    retweeted: false
+    text: ! '“@carsoncaldwell: I miss my beautiful little sister, @AnnaBraymer. Let
+      me take you to lunch or something soon.” I miss my brudderrr!! P'
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252393353373696000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:59 +0000 2012
+    favorited: false
+    in_reply_to_status_id_str: 
+    user:
+      screen_name: E7sasNona123
+      id: 775064089
+      is_translator: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      follow_request_sent: 
+      url: 
+      utc_offset: 10800
+      default_profile_image: false
+      profile_background_tile: false
+      created_at: Thu Aug 23 03:23:41 +0000 2012
+      name: نونا الشمال
+      profile_banner_url: https://si0.twimg.com/profile_banners/775064089/1348902846
+      profile_sidebar_fill_color: DDEEF6
+      friends_count: 304
+      favourites_count: 315
+      lang: ar
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2535450804/CvwtuatG_normal
+      profile_image_url_https: https://si0.twimg.com/profile_images/2535450804/CvwtuatG_normal
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      location: التفكر عبادة لا تقبل النيابة.
+      profile_background_color: C0DEED
+      notifications: 
+      description: ربيّ إجعل ؛ ( أمي ) تستوطنّ جنتگك گما اسّتوطنت .. أعماقَ فؤاديّ
+        (L) (F)
+      followers_count: 163
+      default_profile: true
+      following: 
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '775064089'
+      profile_link_color: 0084B4
+      statuses_count: 1291
+      contributors_enabled: false
+      time_zone: Kuwait
+      listed_count: 0
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    in_reply_to_user_id_str: 
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393353373696000
+    retweeted: false
+    text: ! 'همسه أليمه
+
+      لا أعلم لماذا حينما نُبدي اهتمامنا بمن نحب نجد منهم النفرة والتصدد؟! وحينما
+      نُبدي لهم جفاؤنا نجد منهم الاهتمام بنا والولع المُفرط'
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: '252392926645194752'
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 252392926645194752
+    in_reply_to_user_id_str: '379188908'
+    geo: 
+    id_str: '252393352652288000'
+    in_reply_to_user_id: 379188908
+    created_at: Sun Sep 30 13:03:59 +0000 2012
+    favorited: false
+    user:
+      screen_name: piipyyy
+      id: 417585929
+      default_profile_image: false
+      verified: false
+      profile_banner_url: https://si0.twimg.com/profile_banners/417585929/1348670075
+      profile_sidebar_border_color: FFFFFF
+      friends_count: 358
+      favourites_count: 15
+      follow_request_sent: 
+      url: http://www.facebook.com/Tri.oktaviany2
+      utc_offset: -28800
+      profile_background_tile: true
+      created_at: Mon Nov 21 04:03:59 +0000 2011
+      name: tri oktaviany
+      profile_sidebar_fill_color: '252429'
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/669911916/410300038b3086af1e87c1f896dbe884.jpeg
+      lang: id
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2651809056/09844756f203c5d736510e5a150a7479_normal.png
+      is_translator: false
+      default_profile: false
+      location: tanjung pinang, kepri
+      profile_background_color: 1A1B1F
+      notifications: 
+      description: wtf buat cowok PHP !!!
+      statuses_count: 11435
+      followers_count: 726
+      listed_count: 1
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/669911916/410300038b3086af1e87c1f896dbe884.jpeg
+      id_str: '417585929'
+      profile_link_color: 2FC2EF
+      contributors_enabled: false
+      time_zone: Pacific Time (US & Canada)
+      profile_image_url_https: https://si0.twimg.com/profile_images/2651809056/09844756f203c5d736510e5a150a7479_normal.png
+      profile_use_background_image: true
+      profile_text_color: '666666'
+      geo_enabled: false
+    in_reply_to_screen_name: teukufajarM
+    truncated: false
+    source: web
+    contributors: 
+    retweet_count: 0
+    id: 252393352652288000
+    retweeted: false
+    text: RT @teukufajarM Gpp kok gak bales sms aku (⌣́_⌣̀) mungkin kamu lupa kali
+      mau bales sms aku atau kamu lagi sibuk (ʃ⌣̩́_⌣̀ƪ)
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393352413184000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:59 +0000 2012
+    favorited: false
+    user:
+      screen_name: CaarlMarx
+      id: 454271195
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: FFFFFF
+      friends_count: 69
+      favourites_count: 40
+      follow_request_sent: 
+      url: http://devieillesblessures.tumblr.com
+      utc_offset: -21600
+      profile_background_tile: true
+      created_at: Tue Jan 03 20:28:35 +0000 2012
+      name: jordan
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/672646483/745067c09b2d7a7f56d2c5163f07e863.jpeg
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2646354934/0d1135d6a0ccd56ce1e7e47e86af4fcf_normal.jpeg
+      is_translator: false
+      default_profile: false
+      location: Tudor Cinema
+      profile_background_color: C0DEED
+      notifications: 
+      description: vous tromper! ce n'est même pas ma forme définitive. follow son.
+      statuses_count: 4812
+      followers_count: 159
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/672646483/745067c09b2d7a7f56d2c5163f07e863.jpeg
+      id_str: '454271195'
+      profile_link_color: FF0814
+      contributors_enabled: false
+      time_zone: Central Time (US & Canada)
+      profile_image_url_https: https://si0.twimg.com/profile_images/2646354934/0d1135d6a0ccd56ce1e7e47e86af4fcf_normal.jpeg
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    source: web
+    contributors: 
+    retweet_count: 0
+    id: 252393352413184000
+    retweeted: false
+    text: i feel like Philly might upset the Giants today..not sure.
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393349791744000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:58 +0000 2012
+    favorited: false
+    user:
+      screen_name: Connie_LMX
+      id: 99333676
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: 65B0DA
+      friends_count: 88
+      favourites_count: 165
+      follow_request_sent: 
+      url: 
+      utc_offset: -32400
+      profile_background_tile: false
+      created_at: Fri Dec 25 18:09:29 +0000 2009
+      name: Connie Lee
+      profile_sidebar_fill_color: 7AC3EE
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/346063310/Beatoy-11-320x200.jpg
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2520545154/5hs8Tmj7_normal
+      is_translator: false
+      default_profile: false
+      location: ''
+      profile_background_color: 642D8B
+      notifications: 
+      description: Haters are my motivation to move on :) 3
+      statuses_count: 6211
+      followers_count: 58
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/346063310/Beatoy-11-320x200.jpg
+      id_str: '99333676'
+      profile_link_color: FF0000
+      contributors_enabled: false
+      time_zone: Alaska
+      profile_image_url_https: https://si0.twimg.com/profile_images/2520545154/5hs8Tmj7_normal
+      profile_use_background_image: true
+      profile_text_color: 3D1957
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393349791744000
+    retweeted: false
+    text: ! '#NowPlaying - Say something :)'
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393347170304000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:57 +0000 2012
+    favorited: false
+    user:
+      screen_name: ruzty44
+      id: 381423137
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 149
+      favourites_count: 20
+      follow_request_sent: 
+      url: 
+      utc_offset: 25200
+      profile_background_tile: false
+      created_at: Wed Sep 28 09:27:15 +0000 2011
+      name: Perahu Kertas
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      lang: id
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2598861451/jc7fyit35tc6fzxncut7_normal.jpeg
+      is_translator: false
+      default_profile: true
+      location: Jogja tetap Istimewa
+      profile_background_color: C0DEED
+      notifications: 
+      description: Sederhana dan rapuh tapi mampu memberikan kesan yang indah layaknya
+        sebuah perahu kertas :)
+      statuses_count: 638
+      followers_count: 33
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '381423137'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: Bangkok
+      profile_image_url_https: https://si0.twimg.com/profile_images/2598861451/jc7fyit35tc6fzxncut7_normal.jpeg
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393347170304000
+    retweeted: false
+    text: ! 'tidoerrr,!!!"@INAteenagers: Kalau lagi mati lampu, biasanya lo ngapain
+      ? #AskTeenagwrs"'
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393346973184000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:57 +0000 2012
+    favorited: false
+    user:
+      screen_name: StefanyGuedes8
+      id: 409285685
+      default_profile_image: false
+      verified: false
+      profile_banner_url: https://si0.twimg.com/profile_banners/409285685/1348880396
+      profile_sidebar_border_color: '000'
+      friends_count: 178
+      favourites_count: 6
+      follow_request_sent: 
+      url: http://www.facebook.com/stefanyguedes
+      utc_offset: -21600
+      profile_background_tile: true
+      created_at: Thu Nov 10 14:40:46 +0000 2011
+      name: Stefany Daniela
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/672881119/2c41dcfaa5235b179c10dc7749f2ef45.jpeg
+      lang: es
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2653958981/9f049555a1d8440232e34527ef873b3f_normal.jpeg
+      is_translator: false
+      default_profile: false
+      location: ''
+      profile_background_color: C0DEED
+      notifications: 
+      description: ''
+      statuses_count: 1646
+      followers_count: 178
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/672881119/2c41dcfaa5235b179c10dc7749f2ef45.jpeg
+      id_str: '409285685'
+      profile_link_color: 0456C5
+      contributors_enabled: false
+      time_zone: Central Time (US & Canada)
+      profile_image_url_https: https://si0.twimg.com/profile_images/2653958981/9f049555a1d8440232e34527ef873b3f_normal.jpeg
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    source: web
+    contributors: 
+    retweet_count: 0
+    id: 252393346973184000
+    retweeted: false
+    text: Cuando una persona habla a tus espaldas es porque tiene la urgente necesidad
+      de ser igual que tú.
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_user_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252393346776064000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:57 +0000 2012
+    favorited: false
+    user:
+      screen_name: justaplllover
+      id: 169627792
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: 65B0DA
+      friends_count: 1945
+      favourites_count: 34
+      follow_request_sent: 
+      url: 
+      utc_offset: -10800
+      profile_background_tile: true
+      created_at: Thu Jul 22 20:02:28 +0000 2010
+      name: Chuchu da @camilacvf
+      profile_sidebar_fill_color: 7AC3EE
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/632244457/izkcfl9a4qp3x07ncwsk.png
+      lang: pt
+      is_translator: false
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2505145587/e2bctdv6kc2ksjm9bzz4_normal.png
+      default_profile: false
+      location: americana
+      profile_background_color: BADFCD
+      notifications: 
+      description: ! "chuchu da @camilacvf, liindona da @carlapasousa e louca da @elooomarques
+        e fufi da @MaariPrimo.\r\nhttp://www.facebook.com/vik.ribeiro\r\nhttp://ask.fm/Rviick"
+      statuses_count: 481
+      followers_count: 620
+      listed_count: 1
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/632244457/izkcfl9a4qp3x07ncwsk.png
+      id_str: '169627792'
+      profile_link_color: FF0000
+      profile_image_url_https: https://si0.twimg.com/profile_images/2505145587/e2bctdv6kc2ksjm9bzz4_normal.png
+      contributors_enabled: false
+      time_zone: Greenland
+      profile_use_background_image: true
+      profile_text_color: 3D1957
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    source: web
+    in_reply_to_status_id_str: 
+    contributors: 
+    retweet_count: 0
+    id: 252393346776064000
+    retweeted: false
+    text: “Nada tenho a temer! Mas o que você me diz dessa corte infeliz, que não
+      tem júri ou juiz?”.
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    possibly_sensitive: false
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393345836544000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:57 +0000 2012
+    favorited: false
+    user:
+      screen_name: ChristosKoutras
+      id: 24414310
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: FFFFFF
+      friends_count: 865
+      favourites_count: 2547
+      follow_request_sent: 
+      url: http://www.christoskoutras.wordpress.com
+      utc_offset: 7200
+      profile_background_tile: false
+      created_at: Sat Mar 14 19:14:48 +0000 2009
+      name: Christos Koutras
+      profile_sidebar_fill_color: 95E8EC
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/669845681/bf14d9798b545ac1308bca8ee0403a4f.jpeg
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2635378915/b7d08d629ea8e6d6cd172dc283f2338e_normal.jpeg
+      is_translator: false
+      default_profile: false
+      location: ''
+      profile_background_color: B80025
+      notifications: 
+      description: ! "journalist,radio producer & TV Host\r\nstudies: Communication
+        & Journalism- Empire State College"
+      statuses_count: 19344
+      followers_count: 3128
+      listed_count: 26
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/669845681/bf14d9798b545ac1308bca8ee0403a4f.jpeg
+      id_str: '24414310'
+      profile_link_color: 0099B9
+      contributors_enabled: false
+      time_zone: Athens
+      profile_image_url_https: https://si0.twimg.com/profile_images/2635378915/b7d08d629ea8e6d6cd172dc283f2338e_normal.jpeg
+      profile_use_background_image: true
+      profile_text_color: 3C3940
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://twitter.com/tweetbutton" rel="nofollow">Tweet Button</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393345836544000
+    retweeted: false
+    text: ! 'Happy Birthday #Flinstones! http://t.co/GzZfP593'
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393344787968000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:57 +0000 2012
+    favorited: false
+    user:
+      screen_name: stevenmartinezr
+      id: 386186906
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 814
+      favourites_count: 22
+      follow_request_sent: 
+      url: 
+      utc_offset: -10800
+      profile_background_tile: true
+      created_at: Thu Oct 06 20:23:24 +0000 2011
+      name: ! '#GO̶̲̅R̅DOLO̅CO̅ EYN'
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/609705808/m4x1lq3mt9lmpfyrug77.jpeg
+      lang: nl
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2642981785/ce60b93df25418a2ac192152b1e53cfb_normal.jpeg
+      is_translator: false
+      default_profile: false
+      location: delft
+      profile_background_color: C0DEED
+      notifications: 
+      description: ! 'Talentieks#teamLatino  G.B.F Colombiano #Getmoneygang #EYN AKA
+        #Groenbloed   #NFieks'
+      statuses_count: 19584
+      followers_count: 1995
+      listed_count: 4
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/609705808/m4x1lq3mt9lmpfyrug77.jpeg
+      id_str: '386186906'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: Greenland
+      profile_image_url_https: https://si0.twimg.com/profile_images/2642981785/ce60b93df25418a2ac192152b1e53cfb_normal.jpeg
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393344787968000
+    retweeted: false
+    text: Omw ik kweet niet waar
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    possibly_sensitive: false
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393343609344000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:57 +0000 2012
+    favorited: false
+    user:
+      screen_name: phatbrownsinfo
+      id: 189946861
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 1
+      favourites_count: 0
+      follow_request_sent: 
+      url: http://BubbasGotTickets.com/sports-tickets/nfl-football/cleveland-browns
+      utc_offset: -18000
+      profile_background_tile: true
+      created_at: Sun Sep 12 17:30:17 +0000 2010
+      name: Bubba's Browns Info
+      profile_sidebar_fill_color: FFFFFF
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/147987400/browns_stadium.jpg
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/1122444653/Browns_Helmet_normal.jpg
+      is_translator: false
+      default_profile: false
+      location: C-Town
+      profile_background_color: D25104
+      notifications: 
+      description: ! 'Phat Browns updates and info about your Cleveland Browns. Coverage
+        constantly updated like no other source.  '
+      statuses_count: 5765
+      followers_count: 35
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/147987400/browns_stadium.jpg
+      id_str: '189946861'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: Eastern Time (US & Canada)
+      profile_image_url_https: https://si0.twimg.com/profile_images/1122444653/Browns_Helmet_normal.jpg
+      profile_use_background_image: true
+      profile_text_color: B15700
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://twitterfeed.com" rel="nofollow">twitterfeed</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393343609344000
+    retweeted: false
+    text: ! 'http://t.co/khbw8zAj&gt;&gt; NFL kickoff: Week 4 buzz, headlines and
+      picks http://t.co/VwcoR9fs'
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_status_id_str: 
+    coordinates: 
+    possibly_sensitive: false
+    place: 
+    in_reply_to_status_id: 
+    in_reply_to_user_id_str: 
+    geo: 
+    id_str: '252393342581760000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:03:56 +0000 2012
+    favorited: false
+    user:
+      screen_name: koshitsuozasbCt
+      id: 827283842
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 0
+      favourites_count: 0
+      follow_request_sent: 
+      url: http://www.hotpepper.jp/strJ001008969
+      utc_offset: 32400
+      profile_background_tile: false
+      created_at: Sun Sep 16 15:28:35 +0000 2012
+      name: 門前仲町　個室　居酒屋　くろきん　門前仲
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      lang: ja
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2618577662/P015847025_69_normal.jpg
+      is_translator: false
+      default_profile: true
+      location: 門前仲町
+      profile_background_color: C0DEED
+      notifications: 
+      description: ''
+      statuses_count: 2227
+      followers_count: 1
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '827283842'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: Tokyo
+      profile_image_url_https: https://si0.twimg.com/profile_images/2618577662/P015847025_69_normal.jpg
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    source: <a href="http://www.hotpepper.jp" rel="nofollow">Hotpepper</a>
+    contributors: 
+    retweet_count: 0
+    id: 252393342581760000
+    retweeted: false
+    text: 門前仲町 居酒屋 個室 お座敷 宴会 飲み会 ご予約受付中♪1 http://t.co/Mhq720ZO
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392767546880000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:39 +0000 2012
+    favorited: false
+    user:
+      screen_name: tou_ko0129
+      id: 502834887
+      is_translator: false
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 99
+      favourites_count: 57
+      follow_request_sent: false
+      url: 
+      utc_offset: 
+      profile_background_tile: false
+      created_at: Sat Feb 25 10:49:46 +0000 2012
+      name: 落合 冬子
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      lang: ja
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2499072228/image_normal.jpg
+      default_profile: true
+      location: コバトン県
+      profile_background_color: C0DEED
+      notifications: false
+      description: ! 'オタクな事しかつぶやきません。
+
+        オタ友募集中。
+
+        銀魂の山崎好き。
+
+        歴史と文学、美容関連もつぶやくかな？
+
+        日本の城が好きです。'
+      statuses_count: 9684
+      followers_count: 58
+      listed_count: 1
+      following: false
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '502834887'
+      profile_image_url_https: https://si0.twimg.com/profile_images/2499072228/image_normal.jpg
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: 
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    in_reply_to_status_id_str: 
+    source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for
+      iPhone</a>
+    in_reply_to_user_id_str: 
+    contributors: 
+    retweet_count: 0
+    id: 252392767546880000
+    retweeted: false
+    text: ! '5000円値段吊り上げたからそれでいいや、もう…
+
+      ( ノΘ・)'
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392766498304000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:39 +0000 2012
+    in_reply_to_status_id_str: 
+    favorited: false
+    user:
+      screen_name: setogether
+      id: 619240628
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 73
+      favourites_count: 0
+      profile_image_url_https: https://si0.twimg.com/profile_images/2585695412/nrL0s2O3_normal
+      follow_request_sent: 
+      url: 
+      utc_offset: 
+      profile_background_tile: false
+      created_at: Tue Jun 26 16:54:49 +0000 2012
+      name: せとちゃん
+      is_translator: false
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      lang: ja
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2585695412/nrL0s2O3_normal
+      default_profile: true
+      location: ''
+      profile_background_color: C0DEED
+      notifications: 
+      description: 徳高1ー7。ハンド部じゃい！ミスチル／コブクロ好きです。最近はLinkin Parkにはまってます♪フォローしてくれたらうれしいです(*^^*
+      statuses_count: 655
+      followers_count: 69
+      listed_count: 1
+      following: 
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '619240628'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: 
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    in_reply_to_user_id_str: 
+    truncated: false
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252392766498304000
+    retweeted: false
+    text: 約2週間ストレス溜まりますねー(T^T)
+- !ruby/object:Twitter::Status
+  attrs:
+    in_reply_to_user_id_str: 
+    coordinates: 
+    id_str: '252392763331584000'
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    in_reply_to_screen_name: 
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:38 +0000 2012
+    favorited: false
+    truncated: false
+    possibly_sensitive: false
+    user:
+      screen_name: eckervaleria
+      id: 224209268
+      contributors_enabled: false
+      verified: false
+      time_zone: Greenland
+      profile_use_background_image: true
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/671500695/dbcbb440ab0c104485b18fdb7d1d7154.jpeg
+      profile_text_color: '333333'
+      geo_enabled: true
+      url: 
+      utc_offset: -10800
+      default_profile: false
+      created_at: Wed Dec 08 12:31:26 +0000 2010
+      name: ! 'tchubarubadá '
+      profile_sidebar_border_color: fff
+      lang: pt
+      statuses_count: 3475
+      protected: false
+      follow_request_sent: 
+      is_translator: false
+      listed_count: 0
+      profile_background_tile: true
+      location: ''
+      profile_sidebar_fill_color: EFEFEF
+      notifications: 
+      description: Um dia de cada vez e você consegue oq quer.
+      profile_image_url: http://a0.twimg.com/profile_images/2658498753/10c4374047ef7c4fdefd80be9fb94817_normal.jpeg
+      profile_image_url_https: https://si0.twimg.com/profile_images/2658498753/10c4374047ef7c4fdefd80be9fb94817_normal.jpeg
+      following: 
+      profile_background_color: '131516'
+      default_profile_image: false
+      followers_count: 265
+      favourites_count: 0
+      friends_count: 245
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/671500695/dbcbb440ab0c104485b18fdb7d1d7154.jpeg
+      id_str: '224209268'
+      profile_link_color: 009999
+    contributors: 
+    retweet_count: 0
+    source: <a href="http://ask.fm/" rel="nofollow">Ask.fm</a>
+    in_reply_to_status_id_str: 
+    id: 252392763331584000
+    retweeted: false
+    text: Se você tivesse só um desejo, qual seria? — se eu tivesse só um http://t.co/Bmjmodob
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392763113472000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:38 +0000 2012
+    favorited: false
+    user:
+      screen_name: dydysada_
+      id: 482776869
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      friends_count: 49
+      favourites_count: 1
+      follow_request_sent: 
+      url: 
+      utc_offset: 25200
+      profile_background_tile: false
+      created_at: Sat Feb 04 09:08:40 +0000 2012
+      name: dysa dyah kurniawati
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      lang: id
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/1803073888/twitt_mneh_normal.jpg
+      default_profile: true
+      profile_image_url_https: https://si0.twimg.com/profile_images/1803073888/twitt_mneh_normal.jpg
+      location: bojonegoro
+      profile_background_color: C0DEED
+      notifications: 
+      is_translator: false
+      description: --
+      statuses_count: 66
+      followers_count: 47
+      listed_count: 1
+      following: 
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '482776869'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: Bangkok
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    in_reply_to_status_id_str: 
+    source: <a href="http://mobile.twitter.com" rel="nofollow">Mobile Web</a>
+    in_reply_to_user_id_str: 
+    contributors: 
+    retweet_count: 0
+    id: 252392763113472000
+    retweeted: false
+    text: tugas kok nggak ada habisnya
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392762085888000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:38 +0000 2012
+    favorited: false
+    user:
+      screen_name: B_LuhanEXO
+      id: 802079911
+      default_profile_image: false
+      verified: false
+      profile_sidebar_border_color: '000000'
+      friends_count: 669
+      favourites_count: 302
+      follow_request_sent: 
+      url: http://www.exo-m.smtown.com
+      utc_offset: 
+      profile_background_tile: true
+      created_at: Tue Sep 04 08:54:35 +0000 2012
+      name: han
+      profile_sidebar_fill_color: DDEEF6
+      profile_image_url_https: https://si0.twimg.com/profile_images/2662503146/bb154d093b50d1166bf64e3708ec302a_normal.jpeg
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/668936622/17be2652b45eed02b2b6da78b5060cce.jpeg
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2662503146/bb154d093b50d1166bf64e3708ec302a_normal.jpeg
+      is_translator: false
+      default_profile: false
+      location: ! 'Beijing,China '
+      profile_background_color: C0DEED
+      notifications: 
+      description: ! 'By : @BananaEnt || @B_GKb2st''s Partner || HyunA''s friend ||
+        #90线 || WE ARE ONE ! EXO || cek Fav #FANTALK with me?'
+      statuses_count: 12708
+      followers_count: 735
+      listed_count: 1
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/668936622/17be2652b45eed02b2b6da78b5060cce.jpeg
+      id_str: '802079911'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: 
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    in_reply_to_status_id_str: 
+    truncated: false
+    in_reply_to_user_id_str: 
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252392762085888000
+    retweeted: false
+    text: ! 'Jalani hidup apa adanya, jalani cinta ada
+
+      apanya, dan jangan berjalan tanpa
+
+      apa2. BAHAYA -_-'
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392758919168000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:37 +0000 2012
+    favorited: false
+    in_reply_to_status_id_str: 
+    user:
+      screen_name: SFX_BirdGod
+      id: 35346567
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      follow_request_sent: 
+      url: 
+      utc_offset: -18000
+      default_profile_image: false
+      profile_background_tile: false
+      created_at: Sat Apr 25 23:57:37 +0000 2009
+      name: BirdGod
+      profile_sidebar_fill_color: DDEEF6
+      friends_count: 78
+      favourites_count: 101
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2624363107/P276dcRJ_normal
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/510625839/dgesociety.jpg
+      location: Cleveland, Ohio
+      profile_background_color: '000000'
+      notifications: 
+      profile_image_url_https: https://si0.twimg.com/profile_images/2624363107/P276dcRJ_normal
+      description: Gamer, Otaku, Tech Geek. I also am a diehard Philadelphia Eagles
+        fan. I tweet very random stuff.
+      followers_count: 51
+      default_profile: false
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/510625839/dgesociety.jpg
+      id_str: '35346567'
+      profile_link_color: F70000
+      statuses_count: 16123
+      contributors_enabled: false
+      is_translator: false
+      time_zone: Eastern Time (US & Canada)
+      listed_count: 4
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: true
+    in_reply_to_screen_name: 
+    truncated: false
+    in_reply_to_user_id_str: 
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252392758919168000
+    retweeted: false
+    text: Gonna need @Mr_SnootyFoxx to give me a huge shot of adrenaline for work
+      today.
+- !ruby/object:Twitter::Status
+  attrs:
+    possibly_sensitive: false
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392758394880000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:37 +0000 2012
+    favorited: false
+    in_reply_to_status_id_str: 
+    user:
+      screen_name: arretcigarette
+      id: 71081378
+      verified: false
+      profile_sidebar_border_color: C0DEED
+      follow_request_sent: 
+      url: http://club-positif.com/psp/produits/item/92a107556
+      utc_offset: -10800
+      default_profile_image: true
+      profile_background_tile: false
+      created_at: Wed Sep 02 21:29:31 +0000 2009
+      name: arretcigarette
+      profile_sidebar_fill_color: DDEEF6
+      friends_count: 206
+      favourites_count: 0
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png
+      profile_background_image_url_https: https://si0.twimg.com/images/themes/theme1/bg.png
+      location: Paris
+      profile_background_color: C0DEED
+      notifications: 
+      description: Stop au tabac...
+      followers_count: 91
+      default_profile: true
+      following: 
+      profile_background_image_url: http://a0.twimg.com/images/themes/theme1/bg.png
+      id_str: '71081378'
+      profile_link_color: 0084B4
+      profile_image_url_https: https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png
+      statuses_count: 7267
+      contributors_enabled: false
+      is_translator: false
+      time_zone: Greenland
+      listed_count: 0
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    truncated: false
+    in_reply_to_user_id_str: 
+    source: <a href="http://twitterfeed.com" rel="nofollow">twitterfeed</a>
+    contributors: 
+    retweet_count: 0
+    id: 252392758394880000
+    retweeted: false
+    text: ! 'Manifestation contre l''austérité: des milliers de personnes s''élancent
+      de la place de la Nation: Des milliers de... http://t.co/GIk0gDZf'
+- !ruby/object:Twitter::Status
+  attrs:
+    coordinates: 
+    place: 
+    in_reply_to_status_id: 
+    geo: 
+    id_str: '252392757979648000'
+    in_reply_to_user_id: 
+    created_at: Sun Sep 30 13:01:37 +0000 2012
+    in_reply_to_status_id_str: 
+    favorited: false
+    user:
+      screen_name: guttabihh
+      id: 465115732
+      default_profile_image: false
+      verified: false
+      profile_banner_url: https://si0.twimg.com/profile_banners/465115732/1348121314
+      profile_sidebar_border_color: C0DEED
+      friends_count: 135
+      favourites_count: 354
+      profile_image_url_https: https://si0.twimg.com/profile_images/2628732967/d2476acc771978cd18f562baab2fe258_normal.jpeg
+      follow_request_sent: 
+      url: 
+      utc_offset: -14400
+      profile_background_tile: false
+      created_at: Mon Jan 16 00:15:11 +0000 2012
+      name: LOWKEYKINDABIH
+      is_translator: false
+      profile_sidebar_fill_color: DDEEF6
+      profile_background_image_url_https: https://si0.twimg.com/profile_background_images/490065384/IMAG0026.jpg
+      lang: en
+      protected: false
+      profile_image_url: http://a0.twimg.com/profile_images/2628732967/d2476acc771978cd18f562baab2fe258_normal.jpeg
+      default_profile: false
+      location: lil haiti
+      profile_background_color: C0DEED
+      notifications: 
+      description: ''
+      statuses_count: 7473
+      followers_count: 148
+      listed_count: 0
+      following: 
+      profile_background_image_url: http://a0.twimg.com/profile_background_images/490065384/IMAG0026.jpg
+      id_str: '465115732'
+      profile_link_color: 0084B4
+      contributors_enabled: false
+      time_zone: Atlantic Time (Canada)
+      profile_use_background_image: true
+      profile_text_color: '333333'
+      geo_enabled: false
+    in_reply_to_screen_name: 
+    in_reply_to_user_id_str: 
+    truncated: false
+    source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for
+      Android</a>
+    contributors: 
+    retweet_count: 0
+    id: 252392757979648000
+    retweeted: false
+    text: ! '"@FREE_BOOSIE_NOW: Free Lil Booosie , Free BG, Free CMurder and R.I.P.
+      Soulja Slim…."'
